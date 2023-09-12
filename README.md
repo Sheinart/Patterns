@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/i4eyhwak03xli0n7?svg=true)](https://ci.appveyor.com/project/Evstafa/patternstaskone)
+
